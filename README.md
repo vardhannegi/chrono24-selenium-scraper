@@ -48,8 +48,8 @@ pip install selenium beautifulsoup4
    Or, if using Jupyter Notebook, run all cells.
 
 3. **Output Files:**
-   - `allEndPoins1.txt`: Contains all extracted watch listing URLs.
-   - `chrono24_watch_data1.json`: Contains the structured data for each watch listing.
+   - `allEndPoins.txt`: Contains all extracted watch listing URLs.
+   - `chrono24_watch_data.json`: Contains the structured data for each watch listing.
 
 ---
 
@@ -104,7 +104,7 @@ pip install selenium beautifulsoup4
 
 ## Example Output
 
-- `chrono24_watch_data1.json` will look like:
+- `chrono24_watch_data.json` will look like:
 
 ```json
 {
